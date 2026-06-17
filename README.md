@@ -1,16 +1,87 @@
-## Hi there 👋
+# Hi there, I'm Alexander 👋
 
-<!--
-**HEA5Y/HEA5Y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+I'm a Junior C++ Developer passionate about software development, desktop applications, game development, and computer graphics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy building projects that help me deepen my understanding of programming, algorithms, software architecture, and modern development practices.
+
+Currently, I am actively improving my C++ skills and expanding my knowledge of application and engine development.
+
+---
+
+## 🛠️ Technologies & Tools
+
+### Languages
+
+* C++
+* Python (Basic)
+
+### Frameworks & Libraries
+
+* Qt 6
+* STL (Standard Template Library)
+
+### Development Areas
+
+* Desktop Applications
+* Game Development
+* Graphics Programming
+* Data Structures & Algorithms
+* Object-Oriented Programming (OOP)
+
+### Tools
+
+* Git
+* GitHub
+* CMake
+* Visual Studio
+* Qt Creator
+
+---
+
+## 📚 Currently Learning
+
+* Modern C++ (C++17 / C++20)
+* Design Patterns
+* Multithreading
+* Computer Graphics
+* Engine Architecture
+* Low-Level Programming
+
+---
+
+## 🎯 Goals
+
+* Become a professional C++ Software Engineer
+* Build large-scale desktop applications
+* Develop my own game engine
+* Contribute to open-source projects
+* Master modern software architecture
+
+---
+
+## 📂 Featured Projects
+
+Here you can find projects related to:
+
+* Desktop software
+* GUI applications using Qt
+* 3D graphics experiments
+* Game engine development
+* Educational C++ projects
+* Algorithms and data structures
+
+---
+
+## 📈 GitHub Stats
+
+Feel free to explore my repositories and follow my progress as a developer.
+
+---
+
+## 📫 Contact
+
+* GitHub: https://github.com/HEA5Y
+
+Thanks for visiting my profile! 🚀
