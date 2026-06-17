@@ -74,14 +74,10 @@ Here you can find projects related to:
 
 ---
 
-## 📈 GitHub Stats
-
-Feel free to explore my repositories and follow my progress as a developer.
-
----
-
 ## 📫 Contact
 
 * GitHub: https://github.com/HEA5Y
+* Telegram: @ml_sanya
+* Email: yatutalol@gmail.com
 
 Thanks for visiting my profile! 🚀
